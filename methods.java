@@ -14,6 +14,7 @@ public class methods {
 
     static void changeName(String naam) {
         naam = "Ashi";
+        //creating a new object .Not modifying
 
     }
 
@@ -21,7 +22,7 @@ public class methods {
         int temp = a;
         a = b;
         b = temp;
-        // this is excess in this func only not outside the func.
+        // this is access in this func only not outside the func.
 
     }
 }
