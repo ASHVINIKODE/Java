@@ -1,5 +1,3 @@
-import javax.sound.sampled.SourceDataLine;
-
 public class scope {
     // scope basically means where we access our variables
     public static void main(String[] args) {
