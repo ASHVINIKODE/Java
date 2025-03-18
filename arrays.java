@@ -9,7 +9,7 @@ public class arrays {
         System.out.println(arr[1]);
         System.out.println(arr[3]);
         // declaration and initialisation of array.
-
+//array of primitives
         Scanner input = new Scanner(System.in);
         int ar[] = new int[5];
         ar[0] = 1;
