@@ -20,7 +20,7 @@ public class MultiArrList {
         }
 
         System.out.println(list);
-        System.out.println();
+     
 
     }
 }
